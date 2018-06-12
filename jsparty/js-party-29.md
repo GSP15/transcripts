@@ -127,7 +127,7 @@ I'm still just flabbergasted, because I'm looking at the languages used... Other
 
 **Jerod Santo:** That's right, and maybe you do see that a little bit, with the aspirational intent to diversify, but then the actual not diversification. There's a lot of things that play into that; like you said, Kevin, maybe the need to ship production code, or just use the tools that you're familiar with... But specifically with the desire to get into Go, get into Rust - these are things that would compete specifically with Node on the back-end, right? Back-end developers. But the lack of actual movement may indicate that they're either completely satisfied, or other reasons that they don't actually go about switching.
 
-**Kevin Ball:** One thing I find interesting looking at those languages also was looking at Ruby and Python; this is going a little bit astray potentially, but... Kind of in my head, those are in very similar buckets, with the exception that Python is also data science; I think of Ruby and Python -- those are the best general purpose starting web development languages... You know, largely because Java and Rails have been so successful. Looking at the survey, Python strictly dominates Ruby. It's used by far more people, it's intended to increase by far more people...
+**Kevin Ball:** One thing I find interesting looking at those languages also was looking at Ruby and Python; this is going a little bit astray potentially, but... Kind of in my head, those are in very similar buckets, with the exception that Python is also data science; I think of Ruby and Python -- those are the best general purpose starting web development languages... You know, largely because Django and Rails have been so successful. Looking at the survey, Python strictly dominates Ruby. It's used by far more people, it's intended to increase by far more people...
 
 So I don't know how much of that is specific to folks who are doing Node, and which things they're gonna replace; how much of that is my perspective, is totally biased from living in a startup ecosystem... You know, West Coast, California and all of those things are where that's coming from. I'm curious what your perspectives are on Python versus Ruby.
 
@@ -159,7 +159,7 @@ My particular use - I've used them both; npm seems just fine. We have Yarn in Ch
 
 **Kevin Ball:** I wonder how much of the hype is just Facebook.
 
-**Jerod Santo:** Yeah, this is a conversation that comes up often; when you have huge tech giants in the open source world, everything they do makes a splash, and everything they release has more weight behind it than the smaller developers' releases... With some of that, you just see the sheer magnitude of their influence, based on who they who they are. Maybe some of that was with Yarn.
+**Jerod Santo:** Yeah, this is a conversation that comes up often; when you have huge tech giants in the open source world, everything they do makes a splash, and everything they release has more weight behind it than the smaller developers' releases... With some of that, you just see the sheer magnitude of their influence, based on  who they are. Maybe some of that was with Yarn.
 
 There was a lot of frustration specifically around install times with npm, when Yarn first was announced. It was way faster at first, so that was solving a core problem.
 
